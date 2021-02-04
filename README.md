@@ -1,2 +1,1 @@
-# Journey-To-The-Center-Of-The-Earth
-In this game, you have to collect coins which gives you points for the game. You can also collect boosters which help you move faster and jump higher. Here you will meet a robot guide who will give you tips on how to play the game. There are three main levels in this game:- Surviving a landslide Defeating an alien Crossing a cave full of cactus To play the game you have to use the arrow keys to move and jump. When you encounter the alien you should press the K key to kick. Touching dangerous objects like rocks, fireballs, cactus will make you lose coins, you can view the total number of coins collected at the end.
+# SELF-DESIGNED-GAME-1
